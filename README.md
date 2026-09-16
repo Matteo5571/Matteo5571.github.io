@@ -125,7 +125,6 @@ Currently focusing on:
 - Docker
 - Git & GitHub
 - Ansible
-- Terraform
 - DevOps practices
 
 ---
@@ -150,6 +149,7 @@ Currently focusing on:
 
 **Location:** Yangon, Myanmar
 
+🔗 LinkedIn: https://www.linkedin.com/in/hla-moe-aung-matteo-82b114198
 ---
 
 ## 🌍 Languages
