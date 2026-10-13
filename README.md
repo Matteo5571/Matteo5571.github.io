@@ -66,16 +66,19 @@ I am an ELV Engineer with hands-on experience in CCTV system installation and co
 
 ## 💼 Professional Experience
 
-### Senior System Support Engineer
+### ELV Engineer
 **Myanmar Golden Rock Company**
 
-- Microsoft 365 administration
-- Linux system administration and troubleshooting
-- Network administration
-- Banking branch network projects
-- CCTV system design and configuration
+- Install and Configure CCTV Camera, NVR, Cat-6 Cable and SOHO Router and Access point
+- Designed schematic diagram for CCTV system and SOHO Network system with Microsoft Visio
+- Conducted on-site surveys for CCTV installation projects
+- Assessed site conditions, camera locations, and surveillance coverage requirements
+- Prepared CCTV system layouts and determined the required equipment and materials
 - Server monitoring and log analysis
-
+- Calculate project costs, including cameras, NVRs, cabling, accessories
+- Prepared quotations and bills of quantities (BOQ) based on site survey finding
+- Recommended suitable CCTV solutions based on client requirements and site conditions
+  
 ### FTTx Engineer
 **5BB – GlobalNet Company**
 
@@ -104,6 +107,7 @@ I am an ELV Engineer with hands-on experience in CCTV system installation and co
 2016 – 2018
 
 ### Bachelor of Technology — Electronic
+**TU - Toungoo**
 2012 – 2016
 
 ---
@@ -140,6 +144,8 @@ Currently focusing on:
 **Email:** shweyoe1125@gmail.com
 
 **Phone:** +95 9973899090
+
+**Whatsapp** +95 9973899090
 
 **Location:** Yangon, Myanmar
 
