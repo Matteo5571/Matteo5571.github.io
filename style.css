@@ -566,6 +566,15 @@ section {
     margin-top: 10px;
 }
 
+.status {
+    color: green;
+    background-color: #e8f5e9;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 
 /* =========================================================
    15. CONTACT
