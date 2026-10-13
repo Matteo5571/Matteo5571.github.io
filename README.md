@@ -1,17 +1,11 @@
 # Matteo5571.github.io
 # Hla Moe Aung
 
-## System Engineer | Cloud & DevOps Career Transition
+## Sicherheitstechniker
 
 Welcome to my professional portfolio.
 
-I am a System Engineer with experience in IT infrastructure,
-system support, networking, Linux administration, Microsoft 365
-administration and ELV systems.
-
-I am currently developing my Cloud and DevOps engineering skills,
-with a focus on AWS, Linux, Docker, Kubernetes, Git, Ansible
-and Terraform.
+I am an ELV Engineer with hands-on experience in CCTV system installation and configuration, NVR setup, Cat6 network cabling, IP configuration, and troubleshooting. I also have experience conducting site surveys, planning camera locations, selecting suitable equipment, preparing bills of quantities (BOQ), and calculating project costs for quotations. I am committed to delivering reliable security system solutions and continuously developing my technical skills. I am seeking an opportunity to contribute my practical experience and technical knowledge to a professional security systems team in Germany.
 
 ---
 
