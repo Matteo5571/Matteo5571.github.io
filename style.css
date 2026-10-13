@@ -567,7 +567,37 @@ section {
 }
 
 {
-    color: #555;
+    
+.zab-evaluation {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8fafc;
+    border-left: 4px solid #16a34a;
+    border-radius: 8px;
+}
+
+.zab-evaluation h5 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-size: 18px;
+    color: #1e293b;
+}
+
+.zab-evaluation p {
+    line-height: 1.7;
+    color: #475569;
+}
+
+.status {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 6px 12px;
+    color: #166534;
+    background-color: #dcfce7;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+}
 }
 
 
